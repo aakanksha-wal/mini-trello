@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mini-trello/static/css/main.2e025893.chunk.css",
+    "main.js": "/mini-trello/static/js/main.de8e46f4.chunk.js",
+    "main.js.map": "/mini-trello/static/js/main.de8e46f4.chunk.js.map",
+    "runtime-main.js": "/mini-trello/static/js/runtime-main.e77635a0.js",
+    "runtime-main.js.map": "/mini-trello/static/js/runtime-main.e77635a0.js.map",
+    "static/js/2.78acce4b.chunk.js": "/mini-trello/static/js/2.78acce4b.chunk.js",
+    "static/js/2.78acce4b.chunk.js.map": "/mini-trello/static/js/2.78acce4b.chunk.js.map",
+    "index.html": "/mini-trello/index.html",
+    "precache-manifest.d6acaf00783e6ae1979ed6e400d6eb82.js": "/mini-trello/precache-manifest.d6acaf00783e6ae1979ed6e400d6eb82.js",
+    "service-worker.js": "/mini-trello/service-worker.js",
+    "static/css/main.2e025893.chunk.css.map": "/mini-trello/static/css/main.2e025893.chunk.css.map",
+    "static/js/2.78acce4b.chunk.js.LICENSE.txt": "/mini-trello/static/js/2.78acce4b.chunk.js.LICENSE.txt",
+    "static/media/attachment.jpg": "/mini-trello/static/media/attachment.f3efed14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e77635a0.js",
+    "static/js/2.78acce4b.chunk.js",
+    "static/css/main.2e025893.chunk.css",
+    "static/js/main.de8e46f4.chunk.js"
+  ]
+}
